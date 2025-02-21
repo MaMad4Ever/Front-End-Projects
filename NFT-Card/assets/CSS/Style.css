@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: 'Montserrat',sans-serif;
+    background-color: hsl(217, 54%, 11%);
+    margin-top: 100px;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+.nft-Card {
+    background-color: hsl(216, 50%, 16%);
+    width: 220px;
+    height: 426px;
+    border-radius: 8px;
+    box-shadow: 0px 8px 8px 8px #0c1729, 0px 50px 50px 50px #0c192c;
+    padding: 8px 18px;
+}
+
+.nft-image {
+    border-radius: 8px;
+    height: 220px;
+    margin-top: 8px;
+    margin-bottom: 3px;
+    object-fit: cover;
+
+}
+
+
+.img {
+    display: inline-block;
+}
+
+.img:before,
+.img-new:before,
+#image.image-newer:before {
+    position: absolute;
+    content: "";
+    opacity: 0;
+    transition: all 0.5s ease;
+}
+
+.img:hover:before,
+.img-new:hover:before,
+#image.image-newer:hover:before {
+
+    content: url('../images/eye.png');
+    background-color: hsl(178, 100%, 50%);
+    background-size: cover;
+    border-radius: 8px;
+    width: 220px;
+    height: 220px;
+    margin-top: 8px;
+    margin-bottom: 3px;
+    object-fit: cover;
+    position: absolute;
+    opacity: 0.7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+
+.nft-Card > h4 {
+    color: white;
+    padding-top: 12px;
+
+}
+
+.nft-Card > h4:hover {
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+
+}
+
+.nft-Card p {
+    color: #879bbc;
+    font-size: 13px;
+    padding-top: 10px;
+    line-height: 18px;
+}
+
+.line {
+    margin: 18px 0px 18px 0px;
+    border-bottom: 1px solid hsl(215, 32%, 27%);
+}
+
+.profile-icon {
+    width: 27px;
+    border: 1px solid white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+
+}
+
+.sub-text {
+    font-size: 13px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.texts {
+    font-size: 12px;
+    color: #88add9;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.ethereum-icon {
+    width: 8px;
+}
+
+.ethereum-text {
+    color: #08ffff;
+	font-family: 'Montserrat';
+
+}
+
+.clock-icon {
+    width: 12px;
+
+}
+
+.clock-text {
+    color: #88add9;
+}
+
+
+
+.sub-profile {
+    display: flex;
+}
+
+.author-name {
+    font-size: 12px;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    margin-top: 5px;
+    margin-left: 7px;
+}
+
+.author-name:hover {
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
