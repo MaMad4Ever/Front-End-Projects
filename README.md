@@ -5,10 +5,14 @@ BMI Calculator
 ## [Login](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/Login)
 a Simple Login Form Validation
 ![Login](https://github.com/user-attachments/assets/9d41edca-145b-428d-8d6b-b6db2dc4400c)
+
 ## [Password Generator](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/Password-Generator)
 Password Generator
 ![Password Generator](https://github.com/user-attachments/assets/8183b8e4-1cff-4956-b06d-d40050453a8b)
 
+## [Terminal](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/Terminal)
+Clone Linux Terminal
+![Terminal](https://github.com/user-attachments/assets/90e6f84f-64b2-4f22-986e-8bfc6a4cc3ec)
 
 ## Browser Support
 
