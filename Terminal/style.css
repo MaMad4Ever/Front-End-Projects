@@ -1,0 +1,75 @@
+/* Created by Thomas Hj */
+
+
+
+body {
+    background: #000;
+    color: #0E0;
+    font-family: monospace;
+    margin: 15px;
+}
+
+a {
+    color: #0E0;
+}
+
+#symbol, .symbol {
+    color: #EE0;
+    font-weight: bold;
+    padding-right: 5px;
+}
+
+#cmd {
+    padding-right: 5px;
+    position: relative;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+#cmd:after {
+    animation: blink 1s infinite;
+    -webkit-animation: blink 1s infinite;
+    background: #060;
+    color: transparent;
+    content: "-";
+    position: absolute;
+    width: 5px;
+}
+
+#output {
+    left: 0;
+    position: fixed;
+    bottom: -100px;
+}
+
+.echo {
+    tab-size: 4;
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+@keyframes blink {
+    49.9% {
+        background: #060;
+    }
+    50% {
+        background: transparent;
+    }
+    100% {
+        background: transparent;
+    }
+}
+
+@-webkit-keyframes blink {
+    49.9% {
+        background: #060;
+    }
+    50% {
+        background: transparent;
+    }
+    100% {
+        background: transparent;
+    }
+}
