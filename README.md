@@ -10,6 +10,10 @@ Captcha Generator
 a Simple Login Form Validation
 ![Login](https://github.com/user-attachments/assets/9d41edca-145b-428d-8d6b-b6db2dc4400c)
 
+## [NFT-Card](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/Login)
+NFT Card
+![NFT-Card](https://github.com/user-attachments/assets/8560f5ef-a6b7-40fc-98ce-41153ecdb94f)
+
 ## [Password Generator](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/Password-Generator)
 Password Generator
 ![Password Generator](https://github.com/user-attachments/assets/8183b8e4-1cff-4956-b06d-d40050453a8b)
