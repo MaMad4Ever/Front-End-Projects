@@ -2,6 +2,10 @@
 BMI Calculator
 ![BMI](https://github.com/user-attachments/assets/6d3cabc2-9f11-4dc4-a124-415a2400f492)
 
+## [Captcha](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/Captcha)
+Captcha Generator
+![Captcha](https://github.com/user-attachments/assets/6f8e93e3-be21-48fd-813c-1ec96f56583b)
+
 ## [Login](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/Login)
 a Simple Login Form Validation
 ![Login](https://github.com/user-attachments/assets/9d41edca-145b-428d-8d6b-b6db2dc4400c)
