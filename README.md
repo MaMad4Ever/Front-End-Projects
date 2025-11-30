@@ -2,6 +2,10 @@
 BMI Calculator
 ![BMI](https://github.com/user-attachments/assets/6d3cabc2-9f11-4dc4-a124-415a2400f492)
 
+## [Browser Information](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/Browser-Information)
+get a Browser(client) Information
+![Browser-Information](https://github.com/user-attachments/assets/37307a5f-0a6e-4827-8789-7846d47af615)
+
 ## [Captcha](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/Captcha)
 Captcha Generator
 ![Captcha](https://github.com/user-attachments/assets/6f8e93e3-be21-48fd-813c-1ec96f56583b)
@@ -10,7 +14,7 @@ Captcha Generator
 a Simple Login Form Validation
 ![Login](https://github.com/user-attachments/assets/9d41edca-145b-428d-8d6b-b6db2dc4400c)
 
-## [NFT-Card](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/Login)
+## [NFT-Card](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/NFT-Card)
 NFT Card
 ![NFT-Card](https://github.com/user-attachments/assets/8560f5ef-a6b7-40fc-98ce-41153ecdb94f)
 
