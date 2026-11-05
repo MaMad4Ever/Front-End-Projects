@@ -1,31 +1,23 @@
 ## [BMI](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/BMI)
-BMI Calculator
 ![BMI](https://github.com/user-attachments/assets/6d3cabc2-9f11-4dc4-a124-415a2400f492)
 
 ## [Browser Information](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/Browser-Information)
-get a Browser(client) Information
 ![Browser-Information](https://github.com/user-attachments/assets/37307a5f-0a6e-4827-8789-7846d47af615)
 
 ## [Captcha](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/Captcha)
-Captcha Generator
 ![Captcha](https://github.com/user-attachments/assets/6f8e93e3-be21-48fd-813c-1ec96f56583b)
 
+## [Clock](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/Clock)
+![Clock](https://github.com/user-attachments/assets/a407a0bf-5f73-4450-be70-b0a5d7bf2418)
+
 ## [Login](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/Login)
-a Simple Login Form Validation
 ![Login](https://github.com/user-attachments/assets/9d41edca-145b-428d-8d6b-b6db2dc4400c)
 
 ## [NFT-Card](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/NFT-Card)
-NFT Card
 ![NFT-Card](https://github.com/user-attachments/assets/8560f5ef-a6b7-40fc-98ce-41153ecdb94f)
 
 ## [Password Generator](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/Password-Generator)
-Password Generator
 ![Password Generator](https://github.com/user-attachments/assets/8183b8e4-1cff-4956-b06d-d40050453a8b)
 
 ## [Terminal](https://github.com/MaMad4Ever/Front-End-Projects/tree/main/Terminal)
-Clone Linux Terminal
 ![Terminal](https://github.com/user-attachments/assets/90e6f84f-64b2-4f22-986e-8bfc6a4cc3ec)
-
-## Browser Support
-
-Works well with all the browsers supported by HTML5
